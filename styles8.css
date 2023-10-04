@@ -1,0 +1,83 @@
+#img{
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #EFB0C9;
+    
+    
+} 
+.bdy{
+    font-family: 'Happy Monkey', cursive;
+    text-align: center;
+    color:  #ffffff;
+    background: linear-gradient(#a2d2ff,#EFB0C9);
+    
+   
+}
+h1,h3,h5{
+    text-shadow: 0px 0px 4px black;
+}
+#bday-age{
+    background: #EFB0C9;
+    padding: 6px 6px;
+    border-radius: 10%;
+}
+#bday-date{
+    background: #EFB0C9;
+    padding: 4px 3px;
+    border-radius: 10%;
+}
+    
+
+#header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.happy{
+    color: #ffffff;
+}
+.hover{
+    color: #ffffff;
+}
+.gift-img{
+    width: 400px;
+    height: 400px;
+    margin: 0px auto;
+    border: 2px solid #ffffff;
+    border-radius: 5%;
+    background-image: url("https://cdn5.vectorstock.com/i/1000x1000/92/49/gold-ribbon-on-pink-background-gift-box-cover-vector-4659249.jpg");
+    background-size: cover;
+    display: flex;
+   
+}
+#gift-img1:hover {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLN8Rtn_sq0B28OFdynm1k59_OhYluTM1iIWfAbJRO&s");
+}
+
+
+#gift-img2:hover{
+    background-image: url("https://media.tenor.com/WP-5u6sGHz4AAAAC/birthday-friends.gif");
+}
+#gift-img3:hover{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS103gZsmaaui00_7kfQC48oX_w3jB0WD47K_8AOCqX&s");
+}
+#gift-img4:hover{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6XlILbjdTZ2thsoO5KNGk7J0q7gtGMCFurewoKW7EVA&s");
+}
+#gift-img-cheers{
+   height: 200px;
+        
+}
+#gift-img-cheers:hover{
+    background-image: url("https://media.giphy.com/media/j5ElOMw40c0H6uvBtf/giphy.gif");
+    
+}
+#footer{ 
+    width: 400px;
+    font-style: italic;
+    margin: 40px auto;
+
+}
+a{
+    color: #ffffff;
+}
